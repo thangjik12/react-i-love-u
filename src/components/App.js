@@ -23,6 +23,25 @@ import Portfolio11 from './Portfolio11';
 import Portfolio12 from './Portfolio12';
 import Portfolio13 from './Portfolio13';
 import Portfolio14 from './Portfolio14';
+import Portfolio15 from './Portfolio15';
+import Portfolio16 from './Portfolio16';
+import Portfolio17 from './Portfolio17';
+import Portfolio18 from './Portfolio18';
+import Portfolio19 from './Portfolio19';
+import Portfolio20 from './Portfolio20';
+import Portfolio21 from './Portfolio21';
+import Portfolio22 from './Portfolio22';
+import Portfolio23 from './Portfolio23';
+import Portfolio24 from './Portfolio24';
+import Portfolio25 from './Portfolio25';
+import Portfolio26 from './Portfolio26';
+import Portfolio27 from './Portfolio27';
+import Portfolio28 from './Portfolio28';
+import Portfolio29 from './Portfolio29';
+import Portfolio30 from './Portfolio30';
+import Portfolio31 from './Portfolio31';
+import Portfolio32 from './Portfolio32';
+import Portfolio33 from './Portfolio33';
 
 function App() {
   return (
@@ -113,6 +132,25 @@ function App() {
     <Portfolio12/>
     <Portfolio13/>
     <Portfolio14/>
+    <Portfolio15/>
+    <Portfolio16/>
+    <Portfolio17/>
+    <Portfolio18/>
+    <Portfolio19/>
+    <Portfolio20/>
+    <Portfolio21/>
+    <Portfolio22/>
+    <Portfolio23/>
+    <Portfolio24/>
+    <Portfolio25/>
+    <Portfolio26/>
+    <Portfolio27/>
+    <Portfolio28/>
+    <Portfolio29/>
+    <Portfolio30/>
+    <Portfolio31/>
+    <Portfolio32/>
+    <Portfolio33/>
      <Footer/>
     </div>
   );
